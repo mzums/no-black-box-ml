@@ -2,6 +2,7 @@ body {
     font-family: Arial;
     color: white;
     background-color: rgb(34, 34, 34);
+    overscroll-behavior: none;
 }
 #content {
     position: absolute;
